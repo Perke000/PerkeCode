@@ -22,7 +22,7 @@ Explore my repositories to find more interesting projects!
 
 ## GitHub Stats
 
-![000](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true)
+![000](https://github-readme-stats.vercel.app/api?username=Perke000&show_icons=true&count_private=true)
 
 ## Let's Connect
 
