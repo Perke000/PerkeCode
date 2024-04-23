@@ -15,9 +15,8 @@ I'm Matija Perovic, from Serbia. Welcome to my GitHub profile!
 
 Here are some projects I'm proud of:
 
-1. [EtherOS](https://github.com/Perke000/EtherOS)
-2. [Face detecion app](https://github.com/Perke000/FaceDetectionApp)
-3. [Car/Person detecion app with GUI](https://github.com/Perke000/CarPersonBothDetection-SimpleGUIapp)
+1. [Face detecion app](https://github.com/Perke000/FaceDetectionApp)
+2. [Car/Person detecion app with GUI](https://github.com/Perke000/CarPersonBothDetection-SimpleGUIapp)
    
 Explore my repositories to find more interesting projects!
 
