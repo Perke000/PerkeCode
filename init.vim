@@ -9,6 +9,7 @@
 :set encoding=UTF-8
 :set visualbell
 :set scrolloff=5
+:set background=dark
 
 call plug#begin()
 
@@ -18,6 +19,7 @@ Plug 'http://github.com/tpope/vim-surround'
 Plug 'https://github.com/tpope/vim-commentary'
 Plug 'https://github.com/rafi/awesome-vim-colorschemes'
 Plug 'https://github.com/ryanoasis/vim-devicons'
+Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
 Plug 'https://github.com/preservim/tagbar'
 
 call plug#end()
@@ -29,3 +31,4 @@ nnoremap <C-f> :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-l> :UndotreeToggle<CR>
+colorscheme catppuccin
